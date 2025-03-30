@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us | Osborne Honey</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="shop.html">Shop</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="about">
+        <h1>About Osborne Honey</h1>
+        <p>At Osborne Honey, we are passionate about providing our customers with the finest raw honey and natural beeswax products. Sourced sustainably from our hives in beautiful South West Rocks, we offer products that are healthy and eco-friendly.</p>
+        <p>Our bees are treated with care and respect, ensuring the highest quality of honey and beeswax.</p>
+    </section>
+
+    <footer>
+        <p>© 2025 Osborne Honey - South West Rocks, 2440</p>
+    </footer>
+</body>
+</html>
